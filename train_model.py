@@ -31,7 +31,6 @@ for i in range(EPOCHS):
 
 
 
-# tensorboard --logdir=foo:C:/path/to/log
 
 
 
